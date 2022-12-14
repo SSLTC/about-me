@@ -1,0 +1,66 @@
+* {
+    margin: 15px;
+    background-color: rgb(119, 187, 218);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: rgb(8, 55, 97);
+}
+
+h1 {
+    color: rgb(8, 55, 97);
+    background-image: linear-gradient(to right, rgb(119, 187, 218),rgb(8, 55, 97));
+}
+
+#Quote {
+    margin-top: 0px;
+    font-style: italic;
+}
+
+.ProfilePhoto {
+    float: right;
+    margin-top: 0px;
+}
+
+#ProfilePhoto {
+    width: 190px;
+    height: 190px;
+    border-radius: 25px;
+    border-color: rgb(39, 107, 166);
+    border-style: solid;
+    border-width: 2px;
+    margin-right: 0px;
+}
+
+.AboutMe {
+    margin-left: 0px;
+}
+
+.CountOnMe {
+    border-style: solid;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+hr {
+    border-style: dashed;
+    border-color: rgb(8, 55, 97);
+}
+
+ul {
+    margin: 15px;
+    padding: 0px;
+}
+
+nav p{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 0.6em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(212, 154, 20);
+}
